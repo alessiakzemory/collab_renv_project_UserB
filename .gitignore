@@ -1,0 +1,6 @@
+output/*.rds
+ouput/*.png
+*.html
+*.pdf
+*.Rproj
+.Rhistory
